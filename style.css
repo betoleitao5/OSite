@@ -50,16 +50,27 @@ article{
     text-align: justify;
 }
 
-article section div:nth-child(1){
+.traco_1{
     background-color: bisque;
     width: 100%;
     height: 30px;
     padding-top: 1.5%;
 }
+.traco_2{
+    background-color: #2B3836;
+    width: 90%;
+    height: 30px;
+    margin: auto;
+}
 
 h4{
     font-size: 20px;
     padding: 0% 2% 0% 2%;
+}
+h5{
+    font-size: 14px;
+    padding: 2% 2% 0% 2%;
+    text-align: center;
 }
 h6{
     font-size: 15px;
