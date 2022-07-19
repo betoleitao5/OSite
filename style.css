@@ -1,1 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
+body{
+    background-image: linear-gradient(darkblue, purple );
+    position: relative;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+header{
+    width:100%;
+    height: 200px;
+    background: #2B3836 ;
+}
+
+nav{
+    background-color: rgb(16, 18, 18);
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    margin-top: 150px;
+}
+
+main{
+    width:100%;
+    height: 800px;
+}
+
+article{
+    width: 60%;
+    height: 800px;
+    float: left;
+
+}
+
+aside{
+    background: #2B3836 ;
+    width: 31%;
+    height: 800px;
+    float: right;
+}
+
+footer{
+    width:100%;
+    height: 75px;
+    background: #2B3836 ;
+
+}
