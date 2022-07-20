@@ -29,7 +29,6 @@ body{
     margin-right: 3%;
 }
 
-/* HEADER */
 header{
     width:100%;
     height: 200px;
@@ -44,11 +43,10 @@ nav{
     margin-top: 200px;
 }
 
-/* MAIN */
 main{
     width:100%;
     height: 800px;
-    
+    margin-top: 5%;
 }
 
 article{
@@ -124,10 +122,9 @@ footer{
     height: 75px;
     background: #2B3836 ;
 }
-
+/* asidedesing */
 #asideall{
     margin:5%;
-    margin-top: 15%;
     padding: 5%;
     width: 80%;
     height: 700px;
@@ -164,7 +161,6 @@ footer{
     width: 100%;
     height: 30px;
 }
-
 
 #mostread h1{
     padding-left:20px ;
