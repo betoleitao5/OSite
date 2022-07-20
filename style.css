@@ -46,6 +46,27 @@ nav{
     margin-top: 150px;
 }
 
+/* Listinha da NAV */
+
+nav li{
+    display: inline;
+    margin-left: 1%;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: rgba(198, 198, 198, 0.53);
+
+}
+
+nav ul{
+    margin-left: 8%;
+    font-size: 18px;
+    margin-top: 14px;
+
+}
+
 main{
     width:100%;
     height: 800px;
