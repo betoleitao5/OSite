@@ -29,6 +29,7 @@ body{
     margin-right: 3%;
 }
 
+/* HEADER */
 header{
     width:100%;
     height: 200px;
@@ -43,6 +44,7 @@ nav{
     margin-top: 200px;
 }
 
+/* MAIN */
 main{
     width:100%;
     height: 800px;
@@ -53,7 +55,60 @@ article{
     width: 60%;
     height: 800px;
     float: left;
+}
 
+.second{
+    width: 45%;
+    height: 310px;
+    float: left;
+    font-size: 14px;
+    text-align: justify;
+    background-color: #2B3836;
+    margin: auto 5% auto auto;
+}
+
+.traco_1{
+    background-color: #000000;
+    width: 100%;
+    height: 30px;
+    padding-top: 1.5%;
+}
+.traco_2{
+    background-color: #000000;
+    width: 91%;
+    height: 30px;
+    margin: 3% auto auto auto;
+}
+
+h2{
+    font-size: 20px;
+    padding: 0% 2% 0% 4.5%;
+}
+.mais{
+    padding: 2% 2% 0% 5%;
+    text-align: center;
+}
+h3{
+    font-size: 15px;
+    padding: 2% 2% 2% 5%;
+}
+p{
+    padding: 0% 5% 1.5% 5%;
+}
+article a{
+    color: black;
+    background-color: rgb(173, 171, 171);
+    border: none;
+    margin: 5% 0% 0% 78%;
+    text-decoration: none;
+}
+article a:hover{
+    color: white;
+    background-color: black;
+}
+.lista_sec{
+    list-style: square;
+    padding: 2% 9% 9% 9%;
 }
 
 aside{
@@ -63,6 +118,7 @@ aside{
     float: right;
 }
 
+/* FOOTER */
 footer{
     width:100%;
     height: 75px;
